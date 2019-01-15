@@ -1,0 +1,34 @@
+{
+    "name": "jam3-extensions",
+    "displayName": "Jam3 Extensions",
+    "description": "A collection of extensions that we use at Jam3",
+    "version": "0.0.2",
+    "publisher": "alemesa",
+    "icon": "images/jam3-black.png",
+    "keywords": ["React", "Jam3", "Extensions"],
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "formulahendry.auto-close-tag",
+        "esbenp.prettier-vscode",
+        "naumovs.color-highlight",
+        "jerryhong.autofilename",
+        "mikestead.dotenv",
+        "dbaeumer.vscode-eslint",
+        "ombonnike.vscode-status-bar-format-toggle",
+        "spywhere.guides",
+        "sirtori.indenticator",
+        "robinbentley.sass-indented",
+        "philsinatra.nested-comments",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "mrmlnc.vscode-scss",
+        "burkeholland.simple-react-snippets",
+        "jock.svg",
+        "formulahendry.terminal"
+    ]
+}
