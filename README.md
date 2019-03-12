@@ -20,4 +20,4 @@
 
 ### Contributions Guide
 
-- Just make a PR and add extensions inside `package.json` and add a title and screenshoot or gif inside the `README.md`
+- Just make a PR and add extensions inside `package.json` and add a title and screenshot or gif inside the `README.md`
