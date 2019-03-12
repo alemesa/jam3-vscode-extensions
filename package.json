@@ -19,15 +19,11 @@
         "jerryhong.autofilename",
         "mikestead.dotenv",
         "dbaeumer.vscode-eslint",
-        "ombonnike.vscode-status-bar-format-toggle",
-        "spywhere.guides",
         "sirtori.indenticator",
-        "robinbentley.sass-indented",
         "philsinatra.nested-comments",
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
         "mrmlnc.vscode-scss",
-        "burkeholland.simple-react-snippets",
         "jock.svg",
         "formulahendry.terminal"
     ]
