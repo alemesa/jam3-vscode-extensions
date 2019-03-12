@@ -62,7 +62,7 @@ jobs:
 
   - script: |
       npx vsce package -o release.vsix
-    displayName: 'create vsix'
+    displayName: 'Create vsix'
   - task: PublishPipelineArtifact@0
     displayName: 'Publish Pipeline Artifact'
     inputs:

@@ -2,7 +2,7 @@
     "name": "jam3-extensions",
     "displayName": "Jam3 Extensions",
     "description": "A collection of extensions that we use at Jam3",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "alemesa",
     "icon": "images/jam3-black.png",
     "keywords": ["React", "Jam3", "Extensions"],
