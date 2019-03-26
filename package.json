@@ -2,10 +2,14 @@
     "name": "jam3-extensions",
     "displayName": "Jam3 Extensions",
     "description": "A collection of extensions that we use at Jam3",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "alemesa",
     "icon": "images/jam3-black.png",
-    "keywords": ["React", "Jam3", "Extensions"],
+    "keywords": [
+        "React",
+        "Jam3",
+        "Extensions"
+    ],
     "engines": {
         "vscode": "^1.30.0"
     },
@@ -26,5 +30,8 @@
         "mrmlnc.vscode-scss",
         "jock.svg",
         "formulahendry.terminal"
-    ]
+    ],
+    "dependencies": {
+        "vsce": "^1.59.0"
+    }
 }
