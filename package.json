@@ -32,6 +32,6 @@
         "formulahendry.terminal"
     ],
     "dependencies": {
-        "vsce": "^1.59.0"
+        "vsce": "^1.62.0"
     }
 }
